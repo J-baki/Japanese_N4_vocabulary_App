@@ -1,2 +1,22 @@
-# Japanese_N4_vocabulary_App
-A simple, fast, and reliable app for learning Japanese N4 vocabulary locally on your PC. Your learning data stays on your device and is never shared online. It includes quizzes, lesson-based practice, wrong-answer review, and more useful features. Designed specifically for Bengali-speaking Japanese learners. Built with GPT and Claude.
+Getting Started
+
+To run this project locally on your computer, follow these simple steps:
+
+ Prerequisites
+Make sure you have "Node.js" installed on your system.
+Installation & Setup Flow ↓
+
+
+1. Clone the repository
+
+   git clone [repository-url]
+
+3. Open Command Prompt in the project folder
+   - Open the cloned folder in File Explorer
+   - Click the address bar at the top, type 'cmd' and press Enter
+
+4. Install dependencies
+   npm install
+
+5. Start the project
+   npm run dev
