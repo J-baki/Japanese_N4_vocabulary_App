@@ -16,7 +16,9 @@ Installation & Setup Flow ↓
    - Click the address bar at the top, type 'cmd' and press Enter
 
 4. Install dependencies
+
    npm install
 
-5. Start the project
+6. Start the project
+
    npm run dev
